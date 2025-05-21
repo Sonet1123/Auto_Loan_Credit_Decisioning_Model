@@ -14,6 +14,9 @@
 - `training_data.csv`: Includes historical application outcomes with the target variable `bad_flag`.
 - `evaluation_data.csv`: Unlabeled dataset for generating approval predictions.
 
+## Code 
+-See 'CODE.ipynb' for the codes used to do the project
+
 ## Model Highlights
 
 - Logistic Regression with class balancing performed best (AUC = 0.796).
@@ -23,6 +26,6 @@
 
 ## Report
 
-See the uploaded pdf report for the full technical write-up.
+See the uploaded pdf report (Auto_Loan_credit_Decisioning_Model.pdf) for the full technical write-up.
 
 
